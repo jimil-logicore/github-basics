@@ -1,0 +1,20 @@
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
+
+# Exclude OS x folder attributes
+.DS_Store
+
+# Exclude Text Files
+*.txt
+# Exclude Read me
+!README.txt
+
+# Exclude log files
+*.log
+
+# Exclude Fonts
+_fonts/
